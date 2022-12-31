@@ -1,1 +1,1 @@
-# go-example
+# go 基本示例代码
